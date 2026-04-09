@@ -18,7 +18,7 @@ const btnCloseModal = document.getElementById('btnCloseModal');
 // =============================================
 // Batas Maksimal Peserta
 // =============================================
-const MAX_PESERTA = 30;
+const MAX_PESERTA = 50;
 
 // Format nomor pendaftaran: KBY-001
 function formatRegNumber(num) {
